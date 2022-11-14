@@ -23,27 +23,39 @@ NUnit Testing: I used nUnit testing framework for writing unit test cases.
 Sample test cases:
 
 Testcase 1:
+
 Input : empty input
+
 Output : Input is empty
 
 Testcase 2:
+
 Input : add(1,2))
+
 Output : Incorrect braces. Enter the input in the correct format.
 
 Testcase 3:
+
 Input : subbbb(1,2)
+
 Output : Wrong function names. Please enter function names as add(),sub(),mult(),div().
 
 Testcase 4:
+
 Input : mult(1,2,20)
+
 Output : Invalid input format.
 
 Testcase 5:
+
 Input : add(12abc3,43ce)
+
 Output : Input not in correct format. There should not be letters between numbers.
      
 Testcase 6:
+
 Input : add(sub(div(10,2),mult(2,3)),mult(add(20,30),sub(30,20)))
+
 Output : 501.
     
    
