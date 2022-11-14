@@ -7,6 +7,7 @@ Visual studio. Then click on run button to start the application.
 The application takes two arbitrary expressions as arguments. It can be either integers or decimal numbers. 
 
 My assumptions: 
+
 Assumption 1:
 The output will be in Integers or Decimals based on given input except for Division.
 For division the output is always going to be an integer. The reason is, for handling decimal numbers we need to have float type. 
@@ -18,7 +19,9 @@ For subtraction : sub(2,3) or sub(3,2) always gives 1 as output.
 
 
 NUnit Testing: I used nUnit testing framework for writing unit test cases.
+
 Sample test cases:
+
 Testcase 1:
 Input : empty input
 Output : Input is empty
