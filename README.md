@@ -24,7 +24,7 @@ Sample test cases:
 
 Testcase 1:
 
-Input : empty input
+Input : 
 
 Output : Input is empty
 
